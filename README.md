@@ -1,2 +1,3 @@
 # flaskapi
-simple flask api
+simple flask api 
+create a template directory 
